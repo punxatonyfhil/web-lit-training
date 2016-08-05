@@ -27,7 +27,7 @@ Click the pencil icon to edit
 
 Add a line to the README explaining that you've created this repo as part of a web literacy training. Check out this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and experiment with different styles you can apply using markdown. Have fun!
 
-**I am editing this file as a part of the __RP6/Mozilla__ web literacy training**
+**I am editing this file as a part of the -RP6/Mozilla- web literacy training**
 
 ## Save and publish your changes
 
