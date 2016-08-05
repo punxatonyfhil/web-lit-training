@@ -27,6 +27,8 @@ Click the pencil icon to edit
 
 Add a line to the README explaining that you've created this repo as part of a web literacy training. Check out this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and experiment with different styles you can apply using markdown. Have fun!
 
+**I am editing this file as a part of the RP6/Mozilla colaberation**
+
 ## Save and publish your changes
 
 To save and publish your changes, scroll down and complete the information in the "Commit changes" box. Add a note about what you changed. This is an important part of version control—it allows other people (and even your future self!) to know what changes you made and why. 
