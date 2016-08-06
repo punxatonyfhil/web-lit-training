@@ -1,23 +1,23 @@
 # My Bucket List
 
 ## Family and friends
- * Save for kids' college education
- * ~~Organize a family portrait~~
- * Throw a surprise party for a loved one
+ * Alienate loved ones
+ * Foster an environment in which the children realize they need to pay for their own college
+ * No Parties... only misery
 
 ## Travel and Adventure
- * Visit Antarctica
- * Go skydiving
+ * Dias del le meurte
+ * Axe Man
  * Dive the Great Barrier Reef
  
 ## Career
- * ~~Learn coding skills~~
- * Get a job in technology
+ * Social Services
+ * Take people's kids
 
 ## Service and volunteering
- * Join a nonprofit board
- * Volunteer at a children's hospital
+ * continue volunteering
+ * South Sound Family Support Center
  
 ## Creativity
-* Write a song
-* Take an art class
+* Mendelian Genetics
+* perfect horticulture room
